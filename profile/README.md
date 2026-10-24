@@ -15,7 +15,7 @@
 
 ---
 
-**Banikh** (বণিক, the Bangla word for *merchant*, also romanized Bonik or Banik) lets any Bangladeshi business owner launch a full online store in under 30 minutes, no developer needed.
+**Banikh** (said বানিখ; the name comes from বণিক, the Bangla word for *merchant*, also written Bonik or Banik) lets any Bangladeshi business owner launch a full online store in under 30 minutes, no developer needed.
 
 Everything a local seller needs is built in:
 
